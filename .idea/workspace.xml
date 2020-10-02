@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82e50c3c-4f27-4033-927e-655b4308f96e" name="Default Changelist" comment="staafdiagram">
-      <change afterPath="$PROJECT_DIR$/src/Four/five.java" afterDir="false" />
+    <list default="true" id="82e50c3c-4f27-4033-927e-655b4308f96e" name="Default Changelist" comment="h4,5">
+      <change afterPath="$PROJECT_DIR$/src/Four/six.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,14 +51,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Applet.five">
-    <configuration name="One" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Four.One" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Applet.six">
     <configuration name="five" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Four.five" />
       <module name="inleiding-java" />
@@ -68,6 +61,13 @@
     </configuration>
     <configuration name="four" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Four.four" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="six" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Four.six" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.six" />
         <item itemvalue="Applet.five" />
         <item itemvalue="Applet.four" />
         <item itemvalue="Applet.three" />
         <item itemvalue="Applet.two" />
-        <item itemvalue="Applet.One" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601635759878</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="h4,5">
+      <created>1601636474105</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601636474105</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +221,8 @@
     <MESSAGE value="changed sun color" />
     <MESSAGE value="dutch flag" />
     <MESSAGE value="staafdiagram" />
-    <option name="LAST_COMMIT_MESSAGE" value="staafdiagram" />
+    <MESSAGE value="h4,5" />
+    <option name="LAST_COMMIT_MESSAGE" value="h4,5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="529" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601626720564">
@@ -225,22 +233,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1601381659012" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1601635895040">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1601637922597">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1601635895040" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1601635895040">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1601637922597" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1601637922597">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1601635895040" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1601635895040">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1601637922597" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1601637922597">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1601635895040" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1601635895040">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1601637922597" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1601637922597">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1601635895040" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1601637922597" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1601634196274">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -261,10 +269,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="509" y="135" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1601628394807" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1601635770009">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1601636475290">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1601635770009" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1601636475290" />
     <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601379881401">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -273,6 +281,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="209" y="53" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1601381663333" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1601637145413">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1601637145413" />
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1601635192016">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
