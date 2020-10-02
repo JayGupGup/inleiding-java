@@ -19,11 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82e50c3c-4f27-4033-927e-655b4308f96e" name="Default Changelist" comment="changed &quot;hallo klas 8a&quot; to &quot; Hallo roc-dev&quot;" />
+    <list default="true" id="82e50c3c-4f27-4033-927e-655b4308f96e" name="Default Changelist" comment="changed &quot;hallo klas 8a&quot; to &quot; Hallo roc-dev&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +45,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Show" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h01.Show" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Applet.Show" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -53,7 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601379600156</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changed &quot;hallo klas 8a&quot; to &quot; Hallo roc-dev&quot;">
+      <created>1601379765092</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601379765092</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changed &quot;hallo klas 8a&quot; to &quot; Hallo roc-dev&quot;">
+      <created>1601380079188</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601380079188</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,19 +103,44 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changed &quot;hallo klas 8a&quot; to &quot; Hallo roc-dev&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="changed &quot;hallo klas 8a&quot; to &quot; Hallo roc-dev&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1601379887854">
+    <state x="549" y="174" key="FileChooserDialogImpl" timestamp="1601381659013">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1601379887854" />
+    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1601381659012" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1601624121958">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1601624121958" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1601624121958">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1601624121958" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1601624121958">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1601624121958" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1601624121958">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1601624121958" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1601380117371">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1601380117371" />
     <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601379881401">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1601379881401" />
+    <state x="209" y="53" key="new project wizard" timestamp="1601381663333">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="53" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1601381663333" />
   </component>
 </project>
