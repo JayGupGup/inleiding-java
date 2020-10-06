@@ -30,6 +30,5 @@ public class Praktijkopdracht extends Applet {
         g.drawOval(575,300,200,200);
         g.drawString("Cirkel",650,530);
 
-
     }
 }
