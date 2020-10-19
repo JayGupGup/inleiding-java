@@ -20,7 +20,7 @@ public class three extends Applet {
     }
 
     public void paint(Graphics g) {
-        g.drawString(tekst, 50, 60 );
+        g.drawString(tekst, 117, 70 );
     }
 
     class TekstvakListener implements ActionListener {
@@ -29,36 +29,41 @@ public class three extends Applet {
             maand = Integer.parseInt( s);
             switch(maand) {
                 case 1:
-                    tekst = "januari";
+                    tekst = "januari = 31 dagen";
                     break;
                 case 2:
-                    tekst = "februari";
+                    tekst = "februari = 28/29 dagen";
                     break;
                 case 3:
-                    tekst = "maart";
+                    tekst = "maart = 31 dagen";
                     break;
                 case 4:
-                    tekst = "april";
+                    tekst = "april = 30 dagen";
                     break;
                 case 5:
-                    tekst = "mei";
+                    tekst = "mei = 31 dagen";
                     break;
                 case 6:
-                    tekst = "juni";
+                    tekst = "juni = 30 dagen";
                     break;
                 case 7:
-                    tekst = "juli";
+                    tekst = "juli = 31 dagen";
                     break;
                 case 8:
-                    tekst = "augustus";
+                    tekst = "augustus = 31 dagen";
+                    break;
                 case 9:
-                    tekst = "september";
+                    tekst = "september = 30 dagen";
+                    break;
                 case 10:
-                    tekst = "oktober";
+                    tekst = "oktober = 31 dagen";
+                    break;
                 case 11:
-                    tekst = "november";
+                    tekst = "november = 30 dagen";
+                    break;
                 case 12:
-                    tekst = "december";
+                    tekst = "december = 31 dagen";
+                    break;
                 default:
                     tekst = "U hebt een verkeerd nummer ingetikt ..!";
                     break;
