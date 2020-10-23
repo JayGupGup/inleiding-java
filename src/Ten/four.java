@@ -14,7 +14,7 @@ public class four extends Applet {
     int jaartal;
     String q, tekst2;
     int maand;
-    double getal1, getal2, antwoord;
+
 
     public void init() {
         tekstvak2 = new TextField("", 20);
@@ -98,13 +98,6 @@ public class four extends Applet {
             } else {
                 tekst2 = "" + jaartal + " is geen schrikkeljaar";
             }
-            repaint();
-        }
-    }
-
-    class plusListener implements ActionListener {
-        public void actionPerformed(ActionEvent e) {
-
             repaint();
         }
     }
