@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82e50c3c-4f27-4033-927e-655b4308f96e" name="Default Changelist" comment="h10 1,2 en 3">
-      <change afterPath="$PROJECT_DIR$/src/Thirteen/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thirteen/Praktijkopdracht.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thirteen/Three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thirteen/Two.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thirteen/Praktijkopdracht.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thirteen/Praktijkopdracht.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -365,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603896221691</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="h13">
+      <created>1603978912298</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1603978912298</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -381,7 +384,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="opdracht H4,1" />
     <MESSAGE value="test" />
     <MESSAGE value="house added" />
     <MESSAGE value="changed sun color" />
@@ -406,7 +408,8 @@
     <MESSAGE value="12,3" />
     <MESSAGE value="12,4" />
     <MESSAGE value="12 praktijkopdracht" />
-    <option name="LAST_COMMIT_MESSAGE" value="12 praktijkopdracht" />
+    <MESSAGE value="h13" />
+    <option name="LAST_COMMIT_MESSAGE" value="h13" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="7" key="#Project_Structure" timestamp="1603713979338">
@@ -425,22 +428,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1602157064618" />
-    <state width="1493" height="242" key="GridCell.Tab.0.bottom" timestamp="1603978571567">
+    <state width="1493" height="242" key="GridCell.Tab.0.bottom" timestamp="1603979001885">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603978571567" />
-    <state width="1493" height="242" key="GridCell.Tab.0.center" timestamp="1603978571566">
+    <state width="1493" height="242" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603979001885" />
+    <state width="1493" height="242" key="GridCell.Tab.0.center" timestamp="1603979001884">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603978571566" />
-    <state width="1493" height="242" key="GridCell.Tab.0.left" timestamp="1603978571566">
+    <state width="1493" height="242" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603979001884" />
+    <state width="1493" height="242" key="GridCell.Tab.0.left" timestamp="1603979001884">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603978571566" />
-    <state width="1493" height="242" key="GridCell.Tab.0.right" timestamp="1603978571567">
+    <state width="1493" height="242" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603979001884" />
+    <state width="1493" height="242" key="GridCell.Tab.0.right" timestamp="1603979001885">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603978571567" />
+    <state width="1493" height="242" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603979001885" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1603816747642">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -461,10 +464,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="509" y="135" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1601628394807" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603896223523">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603978914632">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603896223523" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603978914632" />
     <state x="376" y="69" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602149387212">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
