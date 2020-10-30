@@ -9,14 +9,14 @@ public class Praktijkopdracht extends Applet {
         setSize(600, 500);
     }
 
-    void tekenboom(Graphics g, int x1, int y1, int width1, int heigt1) {
-        g.setColor(new Color( 165, 42,42));
-        g.fillRect(x1, y1, width1, heigt1);
+    void tekenboom(Graphics g, int x, int y, int width, int heigt) {
+        g.setColor(new Color(134, 41, 41));
+        g.fillRect(x, y, width, heigt);
         g.setColor(Color.GREEN);
-        g.fillOval(x1-20, y1-20, width1*2, heigt1/2);
+        g.fillOval(x-20, y-20, width*2, heigt/2);
     }
 
-    void tekenbos(Graphics g, int width, int heigt, int width2, int heigt2, int rij, int kolom) {
+    void tekenbos(Graphics g, int width, int heigt, int rij, int kolom) {
         for (int j = 0; j < kolom; j++) {
             for (int i = 0; i < rij; i++) {
 
@@ -33,6 +33,6 @@ public class Praktijkopdracht extends Applet {
     public void paint(Graphics g) {
 
         tekenboom(g, 50, 150, 30, 130);
-        tekenbos(g, 30, 130, 60, 60, 5, 2);
+        tekenbos(g, 30, 130,5, 2);
     }
 }
